@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&display=swap');
+.happened_issue{
+    height: 1143px;
+    background-color: #fccb05;
+    width: 1920px;
+}
+
+.happened_issue .happened_header{
+    text-align: center;
+    padding-top: 158px;
+    position: relative;
+}
+.happened_issue .happened_header h1{
+    font-size: 45px;
+    text-transform: uppercase;
+    font-family: 'Montserrat';
+    font-weight: bold;
+    color:#110e03;
+}
+.happened_issue .happened_header p{
+    font-size: 16px;    
+    color: #110e03;
+    font-family: 'Montserrat';
+   width: 712px;
+   margin: auto;
+   margin-top: 40px;
+
+}
+.see_more{
+    clear: left;
+    width: 199px;
+    height: 60px;
+    padding-left: 30px;
+    padding-top: 11px;
+    border: solid 3px #020001;  
+    font-family: 'Montserrat';
+    font-weight: bold;
+    font-size: 23px;  
+    margin: auto;
+    cursor: pointer;
+    margin-top: 55px;
+}
+.new_oj2{
+    position: absolute;
+    right: 70px;
+    top: 43px;
+}
+
+.new_oj3{
+    position: absolute;
+    right: 70px;
+    top: 163px;
+}
+.happened_body{
+    margin-top: 128px;
+    position: relative;
+}
+
+.whpn_issue{
+    width: 382px;
+    background-color: #ff5500;
+    height: 480px;
+    text-align: center;
+    float: left;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+}
+.whpn_issue p{
+    margin: auto;
+    width: 200px;
+    font-family: 'Montserrat';
+    font-size: 55px;
+    word-wrap: break-word;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding-top: 87px;
+    line-height: 50px;
+   
+}
+.whpn_issue img{
+    width: 148px;    
+    height: 148px;
+    margin-top: 63px;
+
+}
+.b_brand,.c_brand,.d_brand,.e_brand{
+    width: 380px;
+    height: 480px;
+    float: left;
+    border-left: 3px solid#111111;
+    border-top: 3px solid#111111;
+    border-bottom: 3px solid#111111;
+}
+.b_brand p,.c_brand p,.d_brand p,.e_brand p{
+    height: 74px;
+    font-size: 30px;
+    text-align: center; 
+    background-color: #110e03;
+    line-height: 74px;
+    font-weight: bold;
+    color:#ffffff;
+    font-family: 'Montserrat';
+}
+.b_brand img,.c_brand img,.d_brand img,.e_brand img{
+   margin-top: -16px;
+   height: 400px;
+}
+.d_brand p{
+    background-color: #ff5500;
+    border-bottom: 3px solid#111111;
+}
+.new_oj4{
+    position: absolute;
+    left: 411px;
+    top: -30px;
+}
+.new_oj5{
+    position: absolute;
+    left: 230px;
+    top: 395px;
+}
+.new_oj6{
+    position: absolute;
+    left: 1434px;
+    top: 436px;
+}
+
+

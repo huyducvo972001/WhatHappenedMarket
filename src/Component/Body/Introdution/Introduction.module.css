@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+
+.introdution{
+    background-image: url('../../../Assert/introduction-bg.png');
+    height: 576px;
+    width: 1920px;
+}
+.banner_main{
+    width: 1920px;
+    overflow-x: hidden;
+}
+
+.introdution .what_happened{    
+    font-family: Montserrat;
+    font-size: 50px;
+    font-weight: bolder;   
+    color: #fff;
+    text-transform: uppercase;
+    padding: 174px 0 0 173px;
+}
+.introdution .content {  
+    width: 667px;
+    height: 125px;
+    font-family: Montserrat;
+    font-weight: lighter;
+    font-size: 20px;
+    text-align: left;
+    color: #fff;
+    word-wrap: break-word;
+    margin: 59px 0 0 173px;
+  }

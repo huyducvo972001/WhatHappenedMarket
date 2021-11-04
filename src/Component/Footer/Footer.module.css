@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&display=swap');
+.footer{
+    width: 1920px;
+    margin-top: 147px;
+}
+.footer .whp {
+    margin-left: 99px;
+    float: left;
+    width: 117px;
+}
+.footer .about {
+    margin-left: 900px;
+    float: left;
+    width: 82px;
+}
+.footer .order {
+    width: 128px;
+    float: left;
+    margin-left: 102px;
+}
+.footer .account {
+    width: 87px;
+    float: left;
+    margin-left: 97px;
+}
+.footer .help {
+    width: 91px;
+    float: left;
+    margin-left: 116px;
+}
+.footer .whp h5,.footer .about h5, .footer .order h5,.footer .account h5, .footer .help h5{
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: bold;
+    color: #111;
+}
+.footer .whp p,.footer .about p,.footer .order p, .footer .account p, .footer .help p{
+    width: 258px;    
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 2.14;
+    color: #111;
+    margin-top: 31px;
+}
+.footer .line{
+    clear: left;
+    width: 1720px;
+    height: 1px;
+    margin: auto;
+    background-color: #f4f4f4;
+   
+}
+.info{
+ margin-top: 22px;
+ margin-bottom: 113px;
+}
+.info .text{
+    width: 800px;
+    height: 38px;
+    margin-left: 99px;
+    font-family: NotoSansCJKkr;
+    font-size: 14px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.71;
+    letter-spacing: normal;
+    text-align: left;
+    color: #a9a9a9;
+}
+.info .icon{
+  float: right;
+  margin-right: 101px;
+}
+.info .icon img{
+    margin-left: 22px;
+  }

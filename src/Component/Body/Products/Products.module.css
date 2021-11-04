@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+.best_product{
+    background-image: url('../../../Assert/bes-bg.png');
+    height: 1073px;
+    width: 1920px;
+}
+.best_product .title{
+   text-align: center;
+   color: #f96400;
+   font-weight: bold;
+   text-transform: uppercase;
+   font-family: Montserrat;
+   font-size: 50px;
+   padding-top: 120px;
+}
+.best_product .content{
+    margin: auto;
+    text-align: center;
+    color: #f96400;
+    font-family: Montserrat;
+    font-size: 20px;
+    margin-top: 49px;
+    width: 700px;
+    word-wrap: break-word;
+    line-height: 32px;
+ }
+
+ .item{
+    margin-top: 55px;
+    margin-left: 176px;
+}
+.products{
+    margin-top: 142px;
+    margin-left: 174px;
+    width: 1600px !important;
+    overflow: hidden;
+}
+
+.see_more{
+    width: 1920px;
+    cursor: pointer;
+}
+.see_more p{
+    clear: left;
+    width: 199px;
+    height: 60px;
+    padding-left: 30px;
+    padding-top: 11px;
+    border: solid 3px #020001;
+    background-color: #fff;
+    font-family: Montserrat;
+    font-weight: bold;
+    font-size: 23px;
+    margin: auto;
+    margin-top: 36px;
+
+}
+
+
+
+
+
+
+

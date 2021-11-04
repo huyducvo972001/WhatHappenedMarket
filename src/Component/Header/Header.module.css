@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+.navbar{
+    height: 80px;
+    background-color: #111111;
+    width: 1935px;
+}
+.logo{
+    margin-left: 97px;
+    padding: 27px 0px;    
+}
+.menu{
+     color: #ffffff;
+     text-transform: uppercase;
+     font-family: Montserrat;
+    font-size: 14px; 
+    margin-top: 30px;
+    text-align: right;
+}
+
+.menu #apply{
+    margin-right: 120px;
+}
+
+.menu span{
+    margin-left: 50px;
+}
+
+.menu span:hover{
+    color:#ea4913;
+    cursor: pointer;
+}
+  

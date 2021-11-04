@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+.list_best_product img {
+    width: 523px;
+    height: 514px;
+    display: flex;
+}
+
+.list_best_product {
+    position: relative;
+    font-family: 'Montserrat';
+}
+
+.producticon_bg {
+    width: 92px !important;
+    height: 92px !important;
+    margin-left: -2px;
+    position: absolute;
+    top: -47px
+}
+
+.producticon_number {
+    position: absolute;
+    height: 29px;
+    font-family: Montserrat;
+    font-size: 30px;
+    font-weight: bold;
+    top: -13px;
+    left: 25px;
+    line-height: 0.83;
+    color: #110e03;
+    border-bottom: 2px solid red;
+}
+
+.how_to{  
+    position: absolute;
+    border: solid 3px #020001;
+    background-color: white;
+    width: 369px;
+    height: 79px;
+    margin: 426px 81px 0 71px;
+ 
+    bottom: -40px;
+}
+ .how_to .title{
+    width: 188px;
+    height: 44px;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.25;
+    text-align: left;
+    color: #222;
+    padding: 11px 0 0 27px;
+ }
+
+ .how_to .go{
+   background-color: black;  
+    color: #fff;
+    border-radius: 100%;
+    width: 65px;
+    height: 65px;
+   text-align: center;
+    line-height: 63px;
+    font-weight: bolder;
+    margin-top: 4px;
+    margin-left: 15px;
+ }
